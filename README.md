@@ -1,6 +1,6 @@
 # conversao-distancia
 
-## Comando para gerar a imagem:
+#### Comandos Docker:
 
 ```sh
 // O . irá pegar o Dockerfile na raiz
